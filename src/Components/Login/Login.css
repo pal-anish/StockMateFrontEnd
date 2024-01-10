@@ -1,0 +1,26 @@
+.formstyle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    max-width: 500px;
+    margin: 5rem auto;
+}
+
+.formfields{
+    margin-bottom: 1rem;
+}
+
+.custom-label{
+    font-weight: bold;
+}
+
+.customcheckbox{
+    width:100%
+}
+
+.loginbutton{
+    background-color: chocolate;
+    width: 10rem;
+    color: ghostwhite;
+}

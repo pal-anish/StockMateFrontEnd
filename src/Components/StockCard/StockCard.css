@@ -1,0 +1,18 @@
+.gridcardstyle{
+    background-color:lightcyan;
+    color:black;
+    padding: 1rem;
+    outline: black;
+    border-radius: 25px;
+}
+
+.custombutton{
+    background-color: mediumblue;
+    border: none;
+    outline: none;
+    color: ghostwhite;
+}
+
+.customfontstyle{
+    font-weight: 500;
+}

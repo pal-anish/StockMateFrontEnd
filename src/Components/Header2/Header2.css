@@ -1,0 +1,31 @@
+.headerbckgrnd{
+    background-color:mediumblue;
+}
+ 
+ 
+.headermargin{
+    margin-right: 1rem;
+}
+
+.textdeatiling{
+    color: cornsilk !important;
+    padding: .5rem;
+    font-weight: 500;
+}
+
+button.logoutbutton{
+    background-color: chocolate;
+    width: 8rem;
+    color: ghostwhite;
+    border: none;
+    outline: none;
+    font-weight: 500;
+}
+
+.customnavbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+

@@ -1,0 +1,88 @@
+.customsection{
+    padding: 2rem 0;
+}
+.divstyle1{
+    background-color: #e0e0e0;
+    border-radius: 100px;
+    margin: 2rem auto 0;
+    max-width: 1000px;
+}
+
+.formstyle1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem 1rem;
+}
+
+.searchiconstyle{
+    font-size: 2.5rem;
+    color: #757575;
+}
+
+.searchbarstyle{
+    padding: 1rem 0;
+    width: 100%;
+    font-size: 1.5rem;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    margin-left: 2rem;
+}
+
+.searchbartextstyle{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.closepopup{
+    font-size: 3rem;
+    color: #757575;
+    cursor: pointer;
+    transition-duration: 200ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+
+}
+
+.opacity-100{
+    opacity: 1;
+}
+
+.opacity-0{
+    opacity: 0;
+}
+
+.resultboxstyle{
+    padding: 2rem 1rem;
+}
+
+.noresultstyle{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.resultfounsstyle{
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.gridstyle{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 1rem;
+}
+
+.cardfontstyle{
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.customsearchbuttonstyle{
+    border: none;
+    background-color: transparent;
+    margin-right: 2rem;
+}

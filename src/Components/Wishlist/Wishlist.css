@@ -1,0 +1,23 @@
+.card-container {
+    /* display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap; */
+    border-radius: 10px;
+  }
+
+  .card-div{
+    display:flex ; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+  }
+  .cards-main{
+    background-color: white;
+    padding: 1%;
+    margin: 1%;
+}
+
+.cardplacement{
+    gap: 2rem;
+    margin: auto
+}
